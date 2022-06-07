@@ -83,7 +83,7 @@ al clicar se nos habrira la barra de busqueda en la cual nos salen todas las ram
 
 ![image](https://user-images.githubusercontent.com/91567318/172451314-407428c7-e9e5-4d45-a62e-a28ed4db0508.png)
 
-## Preparación y subida de la imagen a dockerhub.
+## Web.
 Despues de lo enterior en la misma terminal introducimos **docker-compose up -d**
 
 ![image](https://user-images.githubusercontent.com/91567318/172451904-5ec03ab2-5067-4ab3-8efa-8f372cbdf5f6.png)
@@ -100,10 +100,10 @@ para ver que todo funciona nos registraremos e iniciaremos sesion
 
 ![image](https://user-images.githubusercontent.com/91567318/172453113-263e79c7-51ce-40bc-9a7b-a16e0a02c6a9.png)
 
-como podemos ver funciona crrectamente 
+como podemos ver funciona correctamente 
 
 ![image](https://user-images.githubusercontent.com/91567318/172453432-1f8a7587-6bc7-428a-9050-63f191487194.png)
 
 ## Conclusiones
 
-- Se que no es el despliegue como tal pero en mi equipo tubimos muchos problemas desde el inicio y al conseguirlo al final lo acabamos haciendo de esta forma en los ordenadores donde no se realizo la practica previa al examen. En este ordenador Ubunto 20.04 no realice la practica por posibles problemas de compativilidad pero estube en todo el proceso con mis compañeros por videollamada.
+- Se que no es el despliegue como tal pero en mi equipo tubimos muchos problemas desde el inicio y al conseguirlo al final lo acabamos haciendo de esta forma en los ordenadores donde no se realizo la practica previa al examen, por eso es posible que falten cosas como la imagen. En este ordenador Ubunto 20.04 no realice la practica por posibles problemas de compativilidad pero estube en todo el proceso con mis compañeros por videollamada.
